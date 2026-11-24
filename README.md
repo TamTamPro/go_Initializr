@@ -39,7 +39,7 @@ This project is designed to be used as a template. Follow these steps to start y
 Clone this repository into a new directory with your desired project name.
 
 ```bash
-git clone https://github.com/Bruno-de-l-Escaille/go_Initializr.git <your-project-name>
+git clone https://github.com/TamTamPro/go_Initializr.git <your-project-name>
 cd <your-project-name>
 ```
 
